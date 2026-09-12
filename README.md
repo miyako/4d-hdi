@@ -1,5 +1,5 @@
-![version](https://img.shields.io/badge/version-16%2B-8331AE)
-![version](https://img.shields.io/badge/version-17%2B-3E8B93)
+![version](https://img.shields.io/badge/version-16-8331AE)
+![version](https://img.shields.io/badge/version-17-3E8B93)
 
 # 4d-hdi
 
