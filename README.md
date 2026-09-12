@@ -40,8 +40,8 @@ Rows marked :white_check_mark: in **Updated** have been converted and are mainta
 | HDI_ListboxOnColumnResize | Reacting to live column resizing in a list box via the `On Column Resize` form event. | | [zip](https://downloads.4d.com/Demos/4D_v16/HDI_ListboxOnColumnResize.zip) |
 | HDI_ListboxVariableRowHeight | Giving individual list box rows different heights, including automatic row height. | | [zip](https://downloads.4d.com/Demos/4D_v16/HDI_ListboxVariableRowHeight.zip) |
 | HDI_ManageCache | Steering the data cache at runtime -- `SET CACHE SIZE`, unload minimum size, flush periodicity, `FLUSH CACHE`, and live statistics from `Cache info`. | :white_check_mark: [HDI_ManageCache](https://github.com/miyako/HDI_ManageCache) | [zip](https://downloads.4d.com/Demos/4D_v16/HDI_ManageCache.zip) |
-| HDI_Mouse_Up_Event | The `On Mouse Up` form event on picture objects, used to implement click-and-drag tracking. | :white_check_mark: [HDI_MouseUpEvent](https://github.com/miyako/HDI_MouseUpEvent) | [zip](https://downloads.4d.com/Demos/4D_v16/HDI_Mouse_Up_Event.zip) |
-| HDI_SavePrintSettings | Saving the current print settings to a BLOB and restoring them later, so a report always prints with its own layout. | :white_check_mark: [HDI_SavePrintSettings](https://github.com/miyako/HDI_SavePrintSettings) | [zip](https://downloads.4d.com/Demos/4D_v16/HDI_SavePrintSettings.zip) |
+| HDI_Mouse_Up_Event | The `On Mouse Up` form event on picture objects -- SVG rubber-band selection, and picture drag-and-drop with timer-driven edge auto-scroll. | :white_check_mark: [HDI_MouseUpEvent](https://github.com/miyako/HDI_MouseUpEvent) | [zip](https://downloads.4d.com/Demos/4D_v16/HDI_Mouse_Up_Event.zip) |
+| HDI_SavePrintSettings | Serialising print settings with `Print settings to BLOB` and restoring them with `BLOB to print settings`, persisted per platform. | :white_check_mark: [HDI_SavePrintSettings](https://github.com/miyako/HDI_SavePrintSettings) | [zip](https://downloads.4d.com/Demos/4D_v16/HDI_SavePrintSettings.zip) |
 | HDI_ThreadSafe_XMLCommands | Running the XML/DOM command set inside preemptive processes. | | [zip](https://downloads.4d.com/Demos/4D_v16/HDI_ThreadSafe_XMLCommands.zip) |
 | HDI_WebServerPreemptive | Serving web requests from preemptive processes and measuring the throughput difference. | | [zip](https://downloads.4d.com/Demos/4D_v16/HDI_WebServerPreemptive.zip) |
 
@@ -68,7 +68,7 @@ Rows marked :white_check_mark: in **Updated** have been converted and are mainta
 |---|---|---|---|
 | HDI_4DViewProNewFormObject | The 4D View Pro form object -- a spreadsheet area embedded directly in a 4D form. | | [zip](https://downloads.4d.com/Demos/4D_v16_R4/HDI_4DViewProNewFormObject.zip) |
 | HDI_4DWritePro_Tables | Creating and formatting tables in a 4D Write Pro document programmatically. | | [zip](https://downloads.4d.com/Demos/4D_v16_R4/HDI_4DWritePro_Tables.zip) |
-| HDI_JSONFileValidation | Validating a JSON document against a JSON Schema with `Validate JSON`, and reporting each error's path and reason. | :white_check_mark: [HDI_JSONFileValidation](https://github.com/miyako/HDI_JSONFileValidation) | [zip](https://downloads.4d.com/Demos/4D_v16_R4/HDI_JSONFileValidation.zip) |
+| HDI_JSONFileValidation | Validating a parsed document against a JSON Schema with `JSON Validate`, and branching on the `success` flag and error collection. | :white_check_mark: [HDI_JSONFileValidation](https://github.com/miyako/HDI_JSONFileValidation) | [zip](https://downloads.4d.com/Demos/4D_v16_R4/HDI_JSONFileValidation.zip) |
 | HDI_ObjectNotationDatasource | Binding form objects directly to object-notation expressions as their data source. | | [zip](https://downloads.4d.com/Demos/4D_v16_R4/HDI_ObjectNotationDatasource.zip) |
 | HDI_PictureObjectAttribute | Storing and retrieving pictures inside object fields and object attributes. | | [zip](https://downloads.4d.com/Demos/4D_v16_R4/HDI_PictureObjectAttribute.zip) |
 | HDI_StandardActionMultiStateObject | Wiring multi-state picture buttons and three-states checkboxes to standard actions. | | [zip](https://downloads.4d.com/Demos/4D_v16_R4/HDI_StandardActionMultiStateObject.zip) |
@@ -85,9 +85,9 @@ Rows marked :white_check_mark: in **Updated** have been converted and are mainta
 | HDI_4DWP_HeadersFooters | Independent headers and footers per section, including distinct first-page and left/right variants. | | [zip](https://downloads.4d.com/Demos/4D_v16_R5/HDI_4DWP_HeadersFooters.zip) |
 | HDI_4DWP_InsertPictureExpression | Inserting a picture into a 4D Write Pro document as a live 4D expression rather than as static content. | | [zip](https://downloads.4d.com/Demos/4D_v16_R5/HDI_4DWP_InsertPictureExpression.zip) |
 | HDI_4DWritePro_Links | Linking a 4D Write Pro document to external content and refreshing it on demand. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWritePro_Links.zip) |
-| HDI_FormData | Passing data back and forth between forms -- opening a dialog with an input object and reading the result back. | :white_check_mark: [HDI_FormData](https://github.com/miyako/HDI_FormData) | [zip](https://downloads.4d.com/Demos/4D_v16_R5/HDI_FormData.zip) |
-| HDI_GetProcessActivity | Building a process and user monitor from `Get process activity`, including CPU usage per process and remote client sessions. | :white_check_mark: [HDI_Get-process-activity](https://github.com/miyako/HDI_Get-process-activity) | [zip](https://downloads.4d.com/Demos/4D_v16_R5/HDI_GetProcessActivity.zip) |
-| HDI_JSON_Pointer | Resolving `$ref` JSON Pointers inside an object with `JSON Resolve pointers`, including the error collection returned on failure. | :white_check_mark: [HDI_JSON_Pointer](https://github.com/miyako/HDI_JSON_Pointer) | [zip](https://downloads.4d.com/Demos/4D_v16_R5/HDI_JSON_Pointer.zip) |
+| HDI_FormData | Passing data between forms by handing an object to `DIALOG` and binding the dialog's fields to it through the `Form` command. | :white_check_mark: [HDI_FormData](https://github.com/miyako/HDI_FormData) | [zip](https://downloads.4d.com/Demos/4D_v16_R5/HDI_FormData.zip) |
+| HDI_GetProcessActivity | Building a timer-driven process and user monitor on `Process activity` (formerly `Get process activity`), with per-session CPU aggregation and a web JSON feed. | :white_check_mark: [HDI_Get-process-activity](https://github.com/miyako/HDI_Get-process-activity) | [zip](https://downloads.4d.com/Demos/4D_v16_R5/HDI_GetProcessActivity.zip) |
+| HDI_JSON_Pointer | Resolving `$ref` JSON Pointers with `JSON Resolve pointers` -- in-object refs, `rootFolder` refs to external files, and `merge` to patch over a defaults file. | :white_check_mark: [HDI_JSON_Pointer](https://github.com/miyako/HDI_JSON_Pointer) | [zip](https://downloads.4d.com/Demos/4D_v16_R5/HDI_JSON_Pointer.zip) |
 | HDI_ListboxHelpTips | Per-cell help tips in a list box, computed from the row's data. | | [zip](https://downloads.4d.com/Demos/4D_v16_R5/HDI_ListboxHelpTips.zip) |
 
 ## 4D v16 R6
@@ -97,7 +97,7 @@ Rows marked :white_check_mark: in **Updated** have been converted and are mainta
 | HDI_4DWP_ImageInAbsolutePosition | Anchoring a picture at an absolute position in a 4D Write Pro document, independent of the text flow. | | [zip](https://downloads.4d.com/Demos/4D_v16_R6/HDI_4DWP_ImageInAbsolutePosition.zip) |
 | HDI_Collection_Members | The collection member functions -- `map`, `reduce`, `filter`, `find`, `slice`, `distinct` and friends. | | [zip](https://downloads.4d.com/Demos/4D_v16_R6/HDI_Collection_Members.zip) |
 | HDI_Collection_Query | Querying a collection of objects with `collection.query()` and placeholder parameters. | | [zip](https://downloads.4d.com/Demos/4D_v16_R6/HDI_Collection_Query.zip) |
-| HDI_JSONForm | Dynamic forms -- building a form from a JSON description at runtime instead of designing it in the form editor. | :white_check_mark: [HDI_JSONForm](https://github.com/miyako/HDI_JSONForm) | [zip](https://downloads.4d.com/Demos/4D_v16_R6/HDI_JSONForm.zip) |
+| HDI_JSONForm | Dynamic forms -- driving `DIALOG` from a parsed JSON form object, loading form JSON by path, and injecting one as a subform with `OBJECT SET SUBFORM`. | :white_check_mark: [HDI_JSONForm](https://github.com/miyako/HDI_JSONForm) | [zip](https://downloads.4d.com/Demos/4D_v16_R6/HDI_JSONForm.zip) |
 | HDI_useSharedObjects | Shared objects and shared collections, and the `Use`...`End use` block that guards concurrent access. | | [zip](https://downloads.4d.com/Demos/4D_v16_R6/HDI_useSharedObjects.zip) |
 
 ---
@@ -118,7 +118,7 @@ Rows marked :white_check_mark: in **Updated** have been converted and are mainta
 | HDI_GET_STRUCTURE_INFO | Introspecting the database structure -- tables, fields, indexes and relations -- as objects. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_GET_STRUCTURE_INFO.zip) |
 | HDI_JSONTableForm_v17 | Generating a table's input and output forms from a JSON dynamic-form description. | | [zip (JP)](https://github.com/4D-JP/HDI/releases/download/17/HDI_JSONTableForm_v17.zip) |
 | HDI_ListboxCollection | Collection-backed list boxes -- binding a collection of objects to a list box and addressing columns by attribute path. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_ListboxCollection.zip) |
-| HDI_ListBoxCollection_Advanced_v17 | Advanced collection list boxes -- a multi-level collection driving several linked list boxes, with computed meta info for per-cell styling. | :white_check_mark: [HDI_ListBoxCollection_Advanced_v17](https://github.com/miyako/HDI_ListBoxCollection_Advanced_v17) | [zip (JP)](https://github.com/4D-JP/HDI/releases/download/17/HDI_ListBoxCollection_Advanced_v17.zip) |
+| HDI_ListBoxCollection_Advanced_v17 | Cascading collection list boxes -- one nested object drilled through with `currentItemSource`, plus per-row `metaSource` styling sampled from theme colours at runtime. | :white_check_mark: [HDI_ListBoxCollection_Advanced_v17](https://github.com/miyako/HDI_ListBoxCollection_Advanced_v17) | [zip (JP)](https://github.com/4D-JP/HDI/releases/download/17/HDI_ListBoxCollection_Advanced_v17.zip) |
 | HDI_ListboxLiveResizing | Live column resizing feedback in a list box while the user drags a separator. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_ListboxLiveResizing.zip) |
 | HDI_ORDA_CRUD | The ORDA create / read / update / delete cycle on entities. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_ORDA_CRUD.zip) |
 | HDI_ORDA_Current_Selection | Bridging between the classic current selection and an ORDA entity selection in both directions. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_ORDA_Current_Selection.zip) |
@@ -199,14 +199,14 @@ Outside the v16/v17 scope of this directory, the following older demos have also
 
 | HDI | Origin | Showcases | Repository |
 |---|---|---|---|
-| HDI_Indexes | v11 | Index types (B-tree, cluster, keyword) and their effect on query plans. | [HDI_Indexes](https://github.com/miyako/HDI_Indexes) |
-| HDI_Passwords | v11 | The user and group access system, and password-protected database access. | [HDI_Passwords](https://github.com/miyako/HDI_Passwords) |
-| HDI_PicturesCombine | v12 | Combining pictures with the picture operators (`+`, `/`, `&`). | [HDI_PicturesCombine](https://github.com/miyako/HDI_PicturesCombine) |
-| HDI_PicturesCrop | v12 | Cropping and transforming pictures with `TRANSFORM PICTURE`. | [HDI_PicturesCrop](https://github.com/miyako/HDI_PicturesCrop) |
-| HDI_ScrollTwoPictures | v14 | Synchronising two picture areas via the scroll form event (since renamed `On Scroll`). | [HDI_ScrollTwoPictures](https://github.com/miyako/HDI_ScrollTwoPictures) |
-| HDI_OnScrollEventInPictureAndListBox | v15 | The scroll form event on picture objects and list boxes. | [HDI_OnScrollEventInPictureAndListBox](https://github.com/miyako/HDI_OnScrollEventInPictureAndListBox) |
-| HDI_PictureTransparency | v15 | Alpha channel handling and transparency in picture objects. | [HDI_PictureTransparency](https://github.com/miyako/HDI_PictureTransparency) |
-| HDI_UseSvgFilters | v15 | SVG filter effects in picture objects (the former Windows limitation no longer applies thanks to Direct2D). | [HDI_UseSvgFilters](https://github.com/miyako/HDI_UseSvgFilters) |
+| HDI_Indexes | v11 | Creating and dropping all four index types (B-tree, cluster, composite, keyword) at runtime and timing their effect on `QUERY` and `ORDER BY`. | [HDI_Indexes](https://github.com/miyako/HDI_Indexes) |
+| HDI_Passwords | v11 | Driving the built-in user/group system from code -- user lists, `CHANGE CURRENT USER`, group-gated features, and `USERS TO BLOB` backup/restore. | [HDI_Passwords](https://github.com/miyako/HDI_Passwords) |
+| HDI_PicturesCombine | v12 | Superimposing two pictures with `COMBINE PICTURES` in `Superimposition` mode, with live offset and transparency sliders. | [HDI_PicturesCombine](https://github.com/miyako/HDI_PicturesCombine) |
+| HDI_PicturesCrop | v12 | Interactive cropping with `TRANSFORM PICTURE` in `Crop` mode, using mutually-constrained sliders and `OBJECT MOVE` to draw the crop rectangle. | [HDI_PicturesCrop](https://github.com/miyako/HDI_PicturesCrop) |
+| HDI_ScrollTwoPictures | v14 | Synchronising two scaled picture areas by mirroring `OBJECT GET/SET SCROLL POSITION` on the scroll event (since renamed `On Scroll`). | [HDI_ScrollTwoPictures](https://github.com/miyako/HDI_ScrollTwoPictures) |
+| HDI_OnScrollEventInPictureAndListBox | v15 | Reading and driving scroll position for both a list box and a scrollable picture, including a moving viewport indicator over a thumbnail. | [HDI_OnScrollEventInPictureAndListBox](https://github.com/miyako/HDI_OnScrollEventInPictureAndListBox) |
+| HDI_PictureTransparency | v15 | Colour keying with `TRANSFORM PICTURE` (`Transparency`), then overlaying a logo with `COMBINE PICTURES` in `Superimposition` mode. | [HDI_PictureTransparency](https://github.com/miyako/HDI_PictureTransparency) |
+| HDI_UseSvgFilters | v15 | Chaining SVG blur, offset and blend filter primitives by named result (the former Windows blend-mode limitation no longer applies thanks to Direct2D). | [HDI_UseSvgFilters](https://github.com/miyako/HDI_UseSvgFilters) |
 
 ## Scope and sources
 
