@@ -42,7 +42,7 @@ A link in **Updated** means the demo has been converted and is maintained; an em
 | HDI_ManageCache | Steering the data cache at runtime -- `SET CACHE SIZE`, unload minimum size, flush periodicity, `FLUSH CACHE`, and live statistics from `Cache info`. | [HDI_ManageCache](https://github.com/miyako/HDI_ManageCache) | [zip](https://downloads.4d.com/Demos/4D_v16/HDI_ManageCache.zip) |
 | HDI_Mouse_Up_Event | The `On Mouse Up` form event on picture objects -- SVG rubber-band selection, and picture drag-and-drop with timer-driven edge auto-scroll. | [HDI_MouseUpEvent](https://github.com/miyako/HDI_MouseUpEvent) | [zip](https://downloads.4d.com/Demos/4D_v16/HDI_Mouse_Up_Event.zip) |
 | HDI_SavePrintSettings | Serialising print settings with `Print settings to BLOB` and restoring them with `BLOB to print settings`, persisted per platform. | [HDI_SavePrintSettings](https://github.com/miyako/HDI_SavePrintSettings) | [zip](https://downloads.4d.com/Demos/4D_v16/HDI_SavePrintSettings.zip) |
-| HDI_XML_Commands_thread_safe | The thread-safe XML command set used from preemptive processes. | | [zip](https://downloads.4d.com/Demos/4D_v16/HDI_ThreadSafe_XMLCommands.zip) |
+| HDI_XML_Commands_thread_safe | The thread-safe XML command set used from preemptive processes. | [HDI_XML_Commands_thread_safe](https://github.com/miyako/HDI_XML_Commands_thread_safe) | [zip](https://downloads.4d.com/Demos/4D_v16/HDI_ThreadSafe_XMLCommands.zip) |
 | HDI_WebServerPreemptive | Serving web requests from preemptive processes and measuring the throughput difference. | | [zip](https://downloads.4d.com/Demos/4D_v16/HDI_WebServerPreemptive.zip) |
 
 ## 4D v16 R2
