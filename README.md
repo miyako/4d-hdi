@@ -116,13 +116,13 @@ A link in **Updated** means the demo has been converted and is maintained; an em
 | HDI_EntitySelectionInListbox | Using an ORDA entity selection directly as a list box data source. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_EntitySelectionInListbox.zip) |
 | HDI_ForEach | The `For each`...`End for each` loop over collections, entity selections and object properties. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_ForEach.zip) |
 | HDI_GET_STRUCTURE_INFO | Introspecting the database structure -- tables, fields, indexes and relations -- as objects. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_GET_STRUCTURE_INFO.zip) |
-| HDI_JSONTableForm_v17 | Generating a table's input and output forms from a JSON dynamic-form description. | | [zip (JP)](https://github.com/4D-JP/HDI/releases/download/17/HDI_JSONTableForm_v17.zip) |
+| HDI_JSONTableForm_v17 | Generating a table's input and output forms from a JSON dynamic-form description. | | [zip](https://download.4d.com/4DBlog/Tips/4D_v17/DynamicForm_TableForm/HDI_JSONTableForm_v17.zip) |
 | HDI_ListboxCollection | Collection-backed list boxes -- binding a collection of objects to a list box and addressing columns by attribute path. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_ListboxCollection.zip) |
 | HDI_ListBoxCollection_Advanced_v17 | Cascading collection list boxes -- one nested object drilled through with `currentItemSource`, plus per-row `metaSource` styling sampled from theme colours at runtime. | [HDI_ListBoxCollection_Advanced_v17](https://github.com/miyako/HDI_ListBoxCollection_Advanced_v17) | [zip](https://download.4d.com/4DBlog/Tips/4D_v17/HDI_ListBoxCollection_Advanced_v17.zip) |
 | HDI_ListboxLiveResizing | Live column resizing feedback in a list box while the user drags a separator. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_ListboxLiveResizing.zip) |
 | HDI_ORDA_CRUD | The ORDA create / read / update / delete cycle on entities. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_ORDA_CRUD.zip) |
 | HDI_ORDA_Current_Selection | Bridging between the classic current selection and an ORDA entity selection in both directions. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_ORDA_Current_Selection.zip) |
-| HDI_ORDA_Dynamic_Sort_v17 | Sorting an entity selection on an attribute chosen at runtime. | | [zip (JP)](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Dynamic_Sort_v17.zip) |
+| HDI_ORDA_Dynamic_Sort_v17 | Sorting an entity selection on an attribute chosen at runtime. | | [zip](https://download.4d.com/4DBlog/Tips/4D_v17/ORDA_Dynamic_Sort_v17.zip) |
 | HDI_ORDA_Handling_Entities | Entity lifecycle -- `new`, `save`, `drop`, `reload`, `touched`, and stamp-based conflict detection. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_ORDA_Handling_Entities.zip) |
 | HDI_ORDA_Lock | Locking entities with ORDA and interpreting the returned status object. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_ORDA_Lock.zip) |
 | HDI_ORDA_Logical_Operators | Combining entity selections with `and`, `or`, `minus` set operations. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_ORDA_Logical_Operators.zip) |
