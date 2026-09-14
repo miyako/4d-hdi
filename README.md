@@ -27,7 +27,7 @@ A link in **Updated** means the demo has been converted and is maintained; an em
 | HDI | Showcases | Updated | Original |
 |---|---|---|---|
 | HDI_4DWP_Bookmarks | Creating, navigating and removing bookmarks in a 4D Write Pro document. | [HDI_4DWP_Bookmarks](https://github.com/miyako/HDI_4DWP_Bookmarks) | [zip](https://downloads.4d.com/Demos/4D_v16/HDI_4DWP_Bookmarks.zip) |
-| HDI_4DWP_Filter4DExpressions | Controlling which 4D expressions a 4D Write Pro document is allowed to evaluate. | | [zip](https://downloads.4d.com/Demos/4D_v16/HDI_4DWP_Filter4DExpressions.zip) |
+| HDI_4DWP_Filter4DExpressions | Controlling which 4D expressions a 4D Write Pro document is allowed to evaluate. | [HDI_4DWP_Filter4DExpressions](https://github.com/miyako/HDI_4DWP_Filter4DExpressions) | [zip](https://downloads.4d.com/Demos/4D_v16/HDI_4DWP_Filter4DExpressions.zip) |
 | HDI_4DWP_InsertDoc | Inserting one 4D Write Pro document into another at a given position. | | [zip](https://downloads.4d.com/Demos/4D_v16/HDI_4DWP_InsertDoc.zip) |
 | HDI_4DWP_InsertPicture | Inserting pictures into a 4D Write Pro document, inline and as characters. | | [zip](https://downloads.4d.com/Demos/4D_v16/HDI_4DWP_InsertPicture.zip) |
 | HDI_4DWP_InvoicesAndBookmarks | Building an invoice document by driving 4D Write Pro bookmarks from data. | | [zip](https://download.4d.com/Demos/4D_v16/WP_InvoicesAndBookmarks.zip) |
