@@ -50,7 +50,7 @@ A link in **Updated** means the demo has been converted and is maintained; an em
 | HDI | Showcases | Updated | Original |
 |---|---|---|---|
 | HDI_ListboxProperties | Reading and writing list box appearance properties at runtime with `LISTBOX SET PROPERTY` / `LISTBOX Get property`. | [HDI_ListboxProperties](https://github.com/miyako/HDI_ListboxProperties) | [zip](https://downloads.4d.com/Demos/4D_v16_R2/HDI_ListboxProperties.zip) |
-| HDI_ManageListboxHightlight | Controlling the list box selection highlight independently of the selected rows. | | [zip](https://downloads.4d.com/Demos/4D_v16_R2/HDI_ManageListboxHightlight.zip) |
+| HDI_ManageListboxHightlight | Controlling the list box selection highlight independently of the selected rows. | [HDI_ManageListboxHightlight](https://github.com/miyako/HDI_ManageListboxHightlight) | [zip](https://downloads.4d.com/Demos/4D_v16_R2/HDI_ManageListboxHightlight.zip) |
 | HDI_ORDER_BY_ATTRIBUTE | Sorting a selection on an attribute inside an object field with `ORDER BY ATTRIBUTE`. | [HDI_ORDER_BY_ATTRIBUTE](https://github.com/miyako/HDI_ORDER_BY_ATTRIBUTE) | [zip](https://downloads.4d.com/Demos/4D_v16_R2/HDI_ORDER_BY_ATTRIBUTE.zip) | 
 | HDI_QueryByAttribute | Querying on an attribute inside an object field with `QUERY BY ATTRIBUTE`, including indexed object attributes. | [HDI_QueryByAttribute](https://github.com/miyako/HDI_QueryByAttribute) | [zip](https://downloads.4d.com/Demos/4D_v16_R2/HDI_QueryByAttribute.zip) |
 
