@@ -131,7 +131,7 @@ A link in **Updated** means the demo has been converted and is maintained; an em
 | HDI_ORDA_Pessimistic_Lock | The pessimistic locking model -- explicitly locking an entity before editing it. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_ORDA_Pessimistic_Lock.zip) |
 | HDI_ORDA_Query | Querying with `dataClass.query()` -- query strings, placeholders, relation traversal and formula criteria. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_ORDA_Query.zip) |
 | HDI_ORDA_Statistics | Aggregate functions over entity selections -- `sum`, `average`, `min`, `max`, `count`. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_ORDA_Statistics.zip) |
-| HDI_VariableRowHeight | Per-row heights in a list box driven by the row's content. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_VariableRowHeight.zip) |
+| HDI_VariableRowHeight | Per-row heights in a list box driven by the row's content. | [HDI_VariableRowHeight](https://github.com/miyako/HDI_VariableRowHeight) | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_VariableRowHeight.zip) |
 
 ## 4D v17 R2
 
