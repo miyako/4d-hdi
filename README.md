@@ -30,7 +30,7 @@ A link in **Updated** means the demo has been converted and is maintained; an em
 | HDI_4DWP_Filter4DExpressions | Controlling which 4D expressions a 4D Write Pro document is allowed to evaluate. | | [zip](https://downloads.4d.com/Demos/4D_v16/HDI_4DWP_Filter4DExpressions.zip) |
 | HDI_4DWP_InsertDoc | Inserting one 4D Write Pro document into another at a given position. | | [zip](https://downloads.4d.com/Demos/4D_v16/HDI_4DWP_InsertDoc.zip) |
 | HDI_4DWP_InsertPicture | Inserting pictures into a 4D Write Pro document, inline and as characters. | | [zip](https://downloads.4d.com/Demos/4D_v16/HDI_4DWP_InsertPicture.zip) |
-| HDI_4DWP_InvoicesAndBookmarks | Building an invoice document by driving 4D Write Pro bookmarks from data. | | [zip (JP)](https://github.com/4D-JP/HDI/releases/download/16/HDI_4DWP_InvoicesAndBookmarks.zip) |
+| HDI_4DWP_InvoicesAndBookmarks | Building an invoice document by driving 4D Write Pro bookmarks from data. | | [zip](https://download.4d.com/Demos/4D_v16/WP_InvoicesAndBookmarks.zip) |
 | HDI_4DWP_Print | Printing a 4D Write Pro document, including print preview and page ranges. | | [zip](https://downloads.4d.com/Demos/4D_v16/HDI_4DWP_Print.zip) |
 | HDI_4DWP_Thread_safety | Using 4D Write Pro commands inside preemptive processes. | | [zip](https://downloads.4d.com/Demos/4D_v16/HDI_4DWP_Thread_safety.zip) |
 | HDI_4DWP_ViewProperties | Switching a 4D Write Pro area between draft, page and embedded view modes, and toggling rulers, margins and invisible characters. | | [zip](https://downloads.4d.com/Demos/4D_v16/HDI_4DWP_ViewProperties.zip) |
