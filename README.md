@@ -16,7 +16,7 @@ HDIs are the small, single-topic demo databases that accompany 4D feature announ
 | **Updated** | Link to a converted, runnable `.4DProject` repository, if one exists. |
 | **Original** | The original binary `.4DB` download, as published by 4D. |
 
-A link in **Updated** means the demo has been converted and is maintained; an empty cell means it is original-only and a candidate for conversion. Originals marked *(JP)* are mirrored from [4D-JP/HDI](https://github.com/4D-JP/HDI) because 4D no longer hosts them.
+A link in **Updated** means the demo has been converted and is maintained; an empty cell means it is original-only and a candidate for conversion.
 
 **Progress:** 9 of 107 v16/v17 HDIs converted.
 
@@ -106,7 +106,7 @@ A link in **Updated** means the demo has been converted and is maintained; an em
 
 | HDI | Showcases | Updated | Original |
 |---|---|---|---|
-| HDI_4DVP_Offscreen_doc | Working with a 4D View Pro document offscreen, with no form area attached. | | [zip (JP)](https://github.com/4D-JP/HDI/releases/download/17/HDI_4DVP_Offscreen_doc.zip) |
+| HDI_4DVP_Offscreen_doc | Working with a 4D View Pro document offscreen, with no form area attached. | | [zip](https://github.com/4d-depot/HDI_4DVP_Offscreen.git) |
 | HDI_4DWP_Elements | Addressing the structural elements of a 4D Write Pro document -- document, body, sections, paragraphs, tables. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWP_Elements.zip) |
 | HDI_4DWP_GetPosition | Retrieving the on-screen coordinates of a range or element in a 4D Write Pro document. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWP_GetPosition.zip) |
 | HDI_4DWP_MultiColumn | Multi-column layout in 4D Write Pro, including per-section column count and spacing. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWP_MultiColumn.zip) |
@@ -178,7 +178,7 @@ A link in **Updated** means the demo has been converted and is maintained; an em
 | HDI_PlaceHolders_AttributePaths | Using placeholders for attribute *paths* in ORDA queries, so the sorted/queried attribute can be chosen at runtime. | | [zip](https://downloads.4d.com/Demos/4D_v17_R5/HDI_PlaceHolders_AttributePaths.zip) |
 | HDI_PlaceHolders_Values | Using value placeholders in ORDA queries to keep user input out of the query string. | | [zip](https://downloads.4d.com/Demos/4D_v17_R5/HDI_PlaceHolders_Values.zip) |
 | HDI_SetUserAlias | Giving a session an alias so it is identifiable in the administration window and process list. | | [zip](https://downloads.4d.com/Demos/4D_v17_R5/HDI_SetUserAlias.zip) |
-| ORDA_Dynamic_Code | Building and executing ORDA queries assembled dynamically at runtime. | | [zip (JP)](https://github.com/4D-JP/HDI/releases/download/17r5/ORDA_Dynamic_Code.zip) |
+| ORDA_Dynamic_Code | Building and executing ORDA queries assembled dynamically at runtime. | | [zip](https://download.4d.com/4DBlog/Tips/4D_v17R5/ORDA_Dynamic_Code.zip) |
 
 ## 4D v17 R6
 
@@ -220,7 +220,6 @@ Outside the v16/v17 scope of this directory, the following older demos have also
 **Sources.**
 
 - [4D v17 demos page](https://se.4d.com/demos4dv17) and [4D v18 demos page](https://se.4d.com/demos4dv18) -- official download URLs.
-- [4D-JP/HDI](https://github.com/4D-JP/HDI) release tags `16`-`16r6` and `17`-`17r6` -- the per-release breakdown, and mirrors for assets 4D no longer hosts.
 - [classic-HDI](https://github.com/miyako/classic-HDI) and [HDI-restoration](https://github.com/miyako/HDI-restoration) -- preliminary research on pre-v16 demos.
 
 ## Contributing a conversion
