@@ -18,7 +18,7 @@ HDIs are the small, single-topic demo databases that accompany 4D feature announ
 
 A link in **Updated** means the demo has been converted and is maintained; an empty cell means it is original-only and a candidate for conversion.
 
-**Progress:** 9 of 107 v16/v17 HDIs converted.
+**Progress:** 30 of 105 v16/v17 HDIs converted.
 
 ---
 
