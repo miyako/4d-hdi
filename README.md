@@ -81,7 +81,7 @@ A link in **Updated** means the demo has been converted and is maintained; an em
 | HDI | Showcases | Updated | Original |
 |---|---|---|---|
 | HDI_4DVP_AutoRowHeight | Fitting 4D View Pro row heights to their content automatically. | [HDI_4DVP_AutoRowHeight](https://github.com/miyako/HDI_4DVP_AutoRowHeight) | [zip](https://downloads.4d.com/Demos/4D_v16_R5/HDI_4DVP_AutoRowHeight.zip) |
-| HDI_4DWP_BackImagePaperBox | Setting a background picture on a 4D Write Pro document and scoping it to the paper box. | | [zip](https://downloads.4d.com/Demos/4D_v16_R5/HDI_4DWP_BackImagePaperBox.zip) |
+| HDI_4DWP_BackImagePaperBox | Setting a background picture on a 4D Write Pro document and scoping it to the paper box. | [HDI_4DWP_BackImagePaperBox](https://github.com/miyako/HDI_4DWP_BackImagePaperBox) | [zip](https://downloads.4d.com/Demos/4D_v16_R5/HDI_4DWP_BackImagePaperBox.zip) |
 | HDI_4DWP_HeadersFooters | Independent headers and footers per section, including distinct first-page and left/right variants. | | [zip](https://downloads.4d.com/Demos/4D_v16_R5/HDI_4DWP_HeadersFooters.zip) |
 | HDI_4DWP_InsertPictureExpression | Inserting a picture into a 4D Write Pro document as a live 4D expression rather than as static content. | | [zip](https://downloads.4d.com/Demos/4D_v16_R5/HDI_4DWP_InsertPictureExpression.zip) |
 | HDI_4DWritePro_Links | Linking a 4D Write Pro document to external content and refreshing it on demand. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWritePro_Links.zip) |
