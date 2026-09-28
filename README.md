@@ -74,7 +74,7 @@ A link in **Updated** means the demo has been converted and is maintained; an em
 | HDI_StandardActionMultiStateObject | Wiring multi-state picture buttons and three-states checkboxes to standard actions. | | [zip](https://downloads.4d.com/Demos/4D_v16_R4/HDI_StandardActionMultiStateObject.zip) |
 | HDI_TabbableObjectOrder | Controlling keyboard entry order and which objects participate in tabbing. | | [zip](https://downloads.4d.com/Demos/4D_v16_R4/HDI_TabbableObjectOrder.zip) |
 | HDI_Tips | Help tips on form objects, including dynamic tips computed from an expression. | [HDI_Tips](https://github.com/miyako/HDI_Tips) | [zip](https://downloads.4d.com/Demos/4D_v16_R4/HDI_Tips.zip) |
-| HDI_UseCollections | The collection type -- creation, iteration, `push`/`pop`, `map`, `sort` and object/collection interop. | | [zip](https://downloads.4d.com/Demos/4D_v16_R4/HDI_UseCollections.zip) |
+| HDI_UseCollections | The collection type -- creation, iteration, `push`/`pop`, `map`, `sort` and object/collection interop. | [HDI_UseCollections](https://github.com/miyako/HDI_UseCollections) | [zip](https://downloads.4d.com/Demos/4D_v16_R4/HDI_UseCollections.zip) |
 
 ## 4D v16 R5
 
