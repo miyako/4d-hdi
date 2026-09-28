@@ -59,7 +59,7 @@ A link in **Updated** means the demo has been converted and is maintained; an em
 | HDI | Showcases | Updated | Original |
 |---|---|---|---|
 | HDI_4DWritePro_StandardActions | Driving a 4D Write Pro area entirely from built-in standard actions, with no glue code. | | [zip](https://downloads.4d.com/Demos/4D_v16_R3/HDI_4DWritePro_StandardActions.zip) |
-| HDI_NewStandardActions | The standard actions introduced for form objects, menus and toolbars. | | [zip](https://downloads.4d.com/Demos/4D_v16_R3/HDI_NewStandardActions.zip) |
+| HDI_NewStandardActions | The standard actions introduced for form objects, menus and toolbars. | [HDI_NewStandardActions](https://github.com/miyako/HDI_NewStandardActions/) | [zip](https://downloads.4d.com/Demos/4D_v16_R3/HDI_NewStandardActions.zip) |
 | HDI_OB_New | Building objects and arrays literally with `New object` and `New collection` instead of `OB SET`. | [HDI_OB_New](https://github.com/miyako/HDI_OB_New) | [zip](https://downloads.4d.com/Demos/4D_v16_R3/HDI_OB_New.zip) |
 
 ## 4D v16 R4
