@@ -67,7 +67,7 @@ A link in **Updated** means the demo has been converted and is maintained; an em
 | HDI | Showcases | Updated | Original |
 |---|---|---|---|
 | HDI_4DViewProNewFormObject | The 4D View Pro form object -- a spreadsheet area embedded directly in a 4D form. | | [zip](https://downloads.4d.com/Demos/4D_v16_R4/HDI_4DViewProNewFormObject.zip) |
-| HDI_4DWritePro_Tables | Creating and formatting tables in a 4D Write Pro document programmatically. | | [zip](https://downloads.4d.com/Demos/4D_v16_R4/HDI_4DWritePro_Tables.zip) |
+| HDI_4DWritePro_Tables | Creating and formatting tables in a 4D Write Pro document programmatically. | [HDI_4DWritePro_Tables](https://github.com/miyako/HDI_4DWritePro_Tables) | [zip](https://downloads.4d.com/Demos/4D_v16_R4/HDI_4DWritePro_Tables.zip) |
 | HDI_JSONFileValidation | Validating a parsed document against a JSON Schema with `JSON Validate`, and branching on the `success` flag and error collection. | [HDI_JSONFileValidation](https://github.com/miyako/HDI_JSONFileValidation) | [zip](https://downloads.4d.com/Demos/4D_v16_R4/HDI_JSONFileValidation.zip) |
 | HDI_ObjectNotationDatasource | Binding form objects directly to object-notation expressions as their data source. | [HDI_ObjectNotationDatasource](https://github.com/miyako/HDI_ObjectNotationDatasource) | [zip](https://downloads.4d.com/Demos/4D_v16_R4/HDI_ObjectNotationDatasource.zip) |
 | HDI_PictureObjectAttribute | Storing and retrieving pictures inside object fields and object attributes. | [HDI_PictureObjectAttribute](https://github.com/miyako/HDI_PictureObjectAttribute) | [zip](https://downloads.4d.com/Demos/4D_v16_R4/HDI_PictureObjectAttribute.zip) |
