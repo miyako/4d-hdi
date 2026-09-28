@@ -88,7 +88,7 @@ A link in **Updated** means the demo has been converted and is maintained; an em
 | HDI_FormData | Passing data between forms by handing an object to `DIALOG` and binding the dialog's fields to it through the `Form` command. | [HDI_FormData](https://github.com/miyako/HDI_FormData) | [zip](https://downloads.4d.com/Demos/4D_v16_R5/HDI_FormData.zip) |
 | HDI_GetProcessActivity | Building a timer-driven process and user monitor on `Process activity` (formerly `Get process activity`), with per-session CPU aggregation and a web JSON feed. | [HDI_Get-process-activity](https://github.com/miyako/HDI_Get-process-activity) | [zip](https://downloads.4d.com/Demos/4D_v16_R5/HDI_GetProcessActivity.zip) |
 | HDI_JSON_Pointer | Resolving `$ref` JSON Pointers with `JSON Resolve pointers` -- in-object refs, `rootFolder` refs to external files, and `merge` to patch over a defaults file. | [HDI_JSON_Pointer](https://github.com/miyako/HDI_JSON_Pointer) | [zip](https://downloads.4d.com/Demos/4D_v16_R5/HDI_JSON_Pointer.zip) |
-| HDI_ListboxHelpTips | Per-cell help tips in a list box, computed from the row's data. | | [zip](https://downloads.4d.com/Demos/4D_v16_R5/HDI_ListboxHelpTips.zip) |
+| HDI_ListboxHelpTips | Per-cell help tips in a list box, computed from the row's data. | [HDI_ListboxHelpTips](https://github.com/miyako/HDI_ListboxHelpTips/) | [zip](https://downloads.4d.com/Demos/4D_v16_R5/HDI_ListboxHelpTips.zip) |
 
 ## 4D v16 R6
 
