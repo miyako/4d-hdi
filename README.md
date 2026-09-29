@@ -97,7 +97,7 @@ A link in **Updated** means the demo has been converted and is maintained; an em
 | HDI_Collection_Members | The collection member functions -- `map`, `reduce`, `filter`, `find`, `slice`, `distinct` and friends. | | [zip](https://downloads.4d.com/Demos/4D_v16_R6/HDI_Collection_Members.zip) |
 | HDI_Collection_Query | Querying a collection of objects with `collection.query()` and placeholder parameters. | | [zip](https://downloads.4d.com/Demos/4D_v16_R6/HDI_Collection_Query.zip) |
 | HDI_JSONForm | Dynamic forms -- driving `DIALOG` from a parsed JSON form object, loading form JSON by path, and injecting one as a subform with `OBJECT SET SUBFORM`. | [HDI_JSONForm](https://github.com/miyako/HDI_JSONForm) | [zip](https://downloads.4d.com/Demos/4D_v16_R6/HDI_JSONForm.zip) |
-| HDI_useSharedObjects | Shared objects and shared collections, and the `Use`...`End use` block that guards concurrent access. | | [zip](https://downloads.4d.com/Demos/4D_v16_R6/HDI_useSharedObjects.zip) |
+| HDI_useSharedObjects | Shared objects and shared collections, and the `Use`...`End use` block that guards concurrent access. | [HDI_useSharedObjects](https://github.com/miyako/HDI_useSharedObjects) | [zip](https://downloads.4d.com/Demos/4D_v16_R6/HDI_useSharedObjects.zip) |
 
 ---
 
