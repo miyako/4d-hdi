@@ -145,12 +145,12 @@ A link in **Updated** means the demo has been converted and is maintained; an em
 
 | HDI | Showcases | Updated | Original |
 |---|---|---|---|
-| HDI_4DWP_ManageSections | Creating and configuring sections in a 4D Write Pro document -- page numbering, headers, columns per section. | | [zip](https://downloads.4d.com/Demos/4D_v17_R3/HDI_4DWP_ManageSections.zip) |
+| HDI_4DWP_ManageSections | Creating and configuring sections in a 4D Write Pro document -- page numbering, headers, columns per section. | [HDI_4DWP_ManageSections](https://github.com/miyako/HDI_4DWP_ManageSections_v18) | [zip](https://downloads.4d.com/Demos/4D_v17_R3/HDI_4DWP_ManageSections.zip) |
 | HDI_ConvertFormToDynamicForm | Exporting a designed form to its JSON description so it can be loaded as a dynamic form. | | [zip](https://downloads.4d.com/Demos/4D_v17_R3/HDI_ConvertFormToDynamicForm.zip) |
-| HDI_GetApplicationInfo | Reading application and runtime information as a structured object. | | [zip](https://downloads.4d.com/Demos/4D_v17_R3/HDI_GetApplicationInfo.zip) |
-| HDI_NewFormula | Formula objects -- `Formula` / `Formula from string` and invoking them as first-class values. | | [zip](https://downloads.4d.com/Demos/4D_v17_R3/HDI_NewFormula.zip) |
-| HDI_RelaunchAndTest | Restarting the application programmatically, useful for self-updating and test harnesses. | | [zip](https://downloads.4d.com/Demos/4D_v17_R3/HDI_RelaunchAndTest.zip) |
-| HDI_VP_ExportToExcel | Exporting a 4D View Pro document to `.xlsx`. | | [zip](https://downloads.4d.com/Demos/4D_v17_R3/HDI_VP_ExportToExcel.zip) |
+| HDI_GetApplicationInfo | Reading application and runtime information as a structured object. | [HDI_ConvertFormToDynamicForm](https://github.com/miyako/HDI_ConvertFormToDynamicForm) | [zip](https://downloads.4d.com/Demos/4D_v17_R3/HDI_GetApplicationInfo.zip) | [HDI_GetApplicationInfo](https://github.com/miyako/HDI_GetApplicationInfo)
+| HDI_NewFormula | Formula objects -- `Formula` / `Formula from string` and invoking them as first-class values. | [HDI_NewFormula](https://github.com/miyako/HDI_NewFormula) | [zip](https://downloads.4d.com/Demos/4D_v17_R3/HDI_NewFormula.zip) |
+| HDI_RelaunchAndTest | Restarting the application programmatically, useful for self-updating and test harnesses. | [HDI_RelaunchAndTest](https://github.com/miyako/HDI_RelaunchAndTest) | [zip](https://downloads.4d.com/Demos/4D_v17_R3/HDI_RelaunchAndTest.zip) |
+| HDI_VP_ExportToExcel | Exporting a 4D View Pro document to `.xlsx`. | [HDI_VP_ExportToExcel](https://github.com/miyako/HDI_VP_ExportToExcel) | [zip](https://downloads.4d.com/Demos/4D_v17_R3/HDI_VP_ExportToExcel.zip) |
 
 ## 4D v17 R4
 
