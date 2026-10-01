@@ -74,6 +74,7 @@ A link in **Updated** means the demo has been converted and is maintained; an em
 | HDI_StandardActionMultiStateObject | Wiring multi-state picture buttons and three-states checkboxes to standard actions. | [HDI_StandardActionMultiStateObject](https://github.com/miyako/HDI_StandardActionMultiStateObject) | [zip](https://downloads.4d.com/Demos/4D_v16_R4/HDI_StandardActionMultiStateObject.zip) |
 | HDI_TabbableObjectOrder | Controlling keyboard entry order and which objects participate in tabbing. | [HDI_TabbableObjectOrder](https://github.com/miyako/HDI_TabbableObjectOrder) | [zip](https://downloads.4d.com/Demos/4D_v16_R4/HDI_TabbableObjectOrder.zip) |
 | HDI_Tips | Help tips on form objects, including dynamic tips computed from an expression. | [HDI_Tips](https://github.com/miyako/HDI_Tips) | [zip](https://downloads.4d.com/Demos/4D_v16_R4/HDI_Tips.zip) |
+| HDI_4DWritePro_Link | Linking a 4D Write Pro document to external content and refreshing it on demand. | [HDI_4DWritePro_Link](https://github.com/miyako/HDI_4DWritePro_Link) | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWritePro_Links.zip) |
 | HDI_UseCollections | The collection type -- creation, iteration, `push`/`pop`, `map`, `sort` and object/collection interop. | [HDI_UseCollections](https://github.com/miyako/HDI_UseCollections) | [zip](https://downloads.4d.com/Demos/4D_v16_R4/HDI_UseCollections.zip) |
 
 ## 4D v16 R5
@@ -110,7 +111,6 @@ A link in **Updated** means the demo has been converted and is maintained; an em
 | HDI_4DWP_GetPosition | Retrieving the on-screen coordinates of a range or element in a 4D Write Pro document. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWP_GetPosition.zip) |
 | HDI_4DWP_MultiColumn | Multi-column layout in 4D Write Pro, including per-section column count and spacing. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWP_MultiColumn.zip) |
 | HDI_4DWP_SetGetText | Reading and writing the plain text of a 4D Write Pro range with `WP SET TEXT` / `WP Get text`. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWP_SetGetText.zip) |
-| HDI_4DWritePro_Links | Linking a 4D Write Pro document to external content and refreshing it on demand. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWritePro_Links.zip) |
 | HDI_4DWriteProContextualMenu | Customising the 4D Write Pro contextual menu, including suppressing and extending entries. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWriteProContextualMenu.zip) |
 | HDI_DISTINCT_ATTRIBUTE_PATH_VALUES | Retrieving distinct values along an attribute *path* inside an object field. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_DISTINCT_ATTRIBUTE_PATH_VALUES.zip) |
 | HDI_EntitySelectionInListbox | Using an ORDA entity selection directly as a list box data source. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_EntitySelectionInListbox.zip) |
