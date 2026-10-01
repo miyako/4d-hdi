@@ -137,9 +137,9 @@ A link in **Updated** means the demo has been converted and is maintained; an em
 
 | HDI | Showcases | Updated | Original |
 |---|---|---|---|
-| HDI_4DWP_AnchoredPictureExpressions | Anchored pictures in 4D Write Pro whose content comes from a 4D expression. | | [zip](https://downloads.4d.com/Demos/4D_v17_R2/HDI_4DWP_AnchoredPictureExpressions.zip) |
-| HDI_TablePagination | Repeating table headers and controlling row breaks across pages in 4D Write Pro. | | [zip](https://downloads.4d.com/Demos/4D_v17_R2/HDI_TablePagination.zip) |
-| HDI_VP_DB_Method | The 4D View Pro database method, used to intercept spreadsheet events centrally. | | [zip](https://downloads.4d.com/Demos/4D_v17_R2/HDI_VP_DB_Method.zip) |
+| HDI_4DWP_AnchoredPictureExpressions | Anchored pictures in 4D Write Pro whose content comes from a 4D expression. | [HDI_4DWP_AnchoredPictureExpressions](https://github.com/miyako/HDI_4DWP_AnchoredPictureExpressions) | [zip](https://downloads.4d.com/Demos/4D_v17_R2/HDI_4DWP_AnchoredPictureExpressions.zip) |
+| HDI_TablePagination | Repeating table headers and controlling row breaks across pages in 4D Write Pro. | [HDI_TablePagination](https://github.com/miyako/HDI_TablePagination) | [zip](https://downloads.4d.com/Demos/4D_v17_R2/HDI_TablePagination.zip) |
+| HDI_VP_DB_Method | The 4D View Pro database method, used to intercept spreadsheet events centrally. | [HDI_VP_DB_Method](https://github.com/miyako/HDI_VP_DB_Method) | [zip](https://downloads.4d.com/Demos/4D_v17_R2/HDI_VP_DB_Method.zip) |
 
 ## 4D v17 R3
 
