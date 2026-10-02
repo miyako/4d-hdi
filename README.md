@@ -59,6 +59,7 @@ A link in **Updated** means the demo has been converted and is maintained; an em
 | HDI | Showcases | Updated | Original |
 |---|---|---|---|
 | HDI_4DWritePro_StandardActions | Driving a 4D Write Pro area entirely from built-in standard actions, with no glue code. | [HDI_4DWritePro_StandardActions](https://github.com/miyako/HDI_4DWritePro_StandardActions) | [zip](https://downloads.4d.com/Demos/4D_v16_R3/HDI_4DWritePro_StandardActions.zip) |
+| HDI_4DWriteProContextualMenu | Customising the 4D Write Pro contextual menu, including suppressing and extending entries. | [HDI_4DWriteProContextualMenu](https://github.com/miyako/HDI_4DWriteProContextualMenu) | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWriteProContextualMenu.zip) |
 | HDI_NewStandardActions | The standard actions introduced for form objects, menus and toolbars. | [HDI_NewStandardActions](https://github.com/miyako/HDI_NewStandardActions/) | [zip](https://downloads.4d.com/Demos/4D_v16_R3/HDI_NewStandardActions.zip) |
 | HDI_OB_New | Building objects and arrays literally with `New object` and `New collection` instead of `OB SET`. | [HDI_OB_New](https://github.com/miyako/HDI_OB_New) | [zip](https://downloads.4d.com/Demos/4D_v16_R3/HDI_OB_New.zip) |
 
@@ -111,7 +112,6 @@ A link in **Updated** means the demo has been converted and is maintained; an em
 | HDI_4DWP_GetPosition | Retrieving the on-screen coordinates of a range or element in a 4D Write Pro document. | [HDI_4DWP_GetPosition](https://github.com/miyako/HDI_4DWP_GetPosition) | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWP_GetPosition.zip) |
 | HDI_4DWP_MultiColumn | Multi-column layout in 4D Write Pro, including per-section column count and spacing. | [HDI_4DWP_MultiColumn](https://github.com/miyako/HDI_4DWP_MultiColumn) | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWP_MultiColumn.zip) |
 | HDI_4DWP_SetGetText | Reading and writing the plain text of a 4D Write Pro range with `WP SET TEXT` / `WP Get text`. | [HDI_4DWP_SetGetText](https://github.com/miyako/HDI_4DWP_SetGetText) | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWP_SetGetText.zip) |
-| HDI_4DWriteProContextualMenu | Customising the 4D Write Pro contextual menu, including suppressing and extending entries. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWriteProContextualMenu.zip) |
 | HDI_DISTINCT_ATTRIBUTE_PATH_VALUES | Retrieving distinct values along an attribute *path* inside an object field. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_DISTINCT_ATTRIBUTE_PATH_VALUES.zip) |
 | HDI_EntitySelectionInListbox | Using an ORDA entity selection directly as a list box data source. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_EntitySelectionInListbox.zip) |
 | HDI_ForEach | The `For each`...`End for each` loop over collections, entity selections and object properties. | [HDI_ForEach](https://github.com/miyako/HDI_ForEach) | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_ForEach.zip) |
