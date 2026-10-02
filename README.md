@@ -96,6 +96,7 @@ A link in **Updated** means the demo has been converted and is maintained; an em
 | HDI | Showcases | Updated | Original |
 |---|---|---|---|
 | HDI_4DWP_ImageInAbsolutePosition | Anchoring a picture at an absolute position in a 4D Write Pro document, independent of the text flow. | [HDI_4DWP_ImageInAbsolutePosition](https://github.com/miyako/HDI_4DWP_ImageInAbsolutePosition) | [zip](https://downloads.4d.com/Demos/4D_v16_R6/HDI_4DWP_ImageInAbsolutePosition.zip) |
+| HDI_4DWP_Elements | Addressing the structural elements of a 4D Write Pro document -- document, body, sections, paragraphs, tables. | [HDI_4DWP_Elements](https://github.com/miyako/HDI_4DWP_Elements) | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWP_Elements.zip) |
 | HDI_Collection_Members | The collection member functions -- `map`, `reduce`, `filter`, `find`, `slice`, `distinct` and friends. | [HDI_Collection_Members](https://github.com/miyako/HDI_Collection_Members) | [zip](https://downloads.4d.com/Demos/4D_v16_R6/HDI_Collection_Members.zip) |
 | HDI_Collection_Query | Querying a collection of objects with `collection.query()` and placeholder parameters. | [HDI_Collection_Query](https://github.com/miyako/HDI_Collection_Query) | [zip](https://downloads.4d.com/Demos/4D_v16_R6/HDI_Collection_Query.zip) |
 | HDI_JSONForm | Dynamic forms -- driving `DIALOG` from a parsed JSON form object, loading form JSON by path, and injecting one as a subform with `OBJECT SET SUBFORM`. | [HDI_JSONForm](https://github.com/miyako/HDI_JSONForm) | [zip](https://downloads.4d.com/Demos/4D_v16_R6/HDI_JSONForm.zip) |
@@ -108,7 +109,6 @@ A link in **Updated** means the demo has been converted and is maintained; an em
 | HDI | Showcases | Updated | Original |
 |---|---|---|---|
 | HDI_4DVP_Offscreen_doc | Working with a 4D View Pro document offscreen, with no form area attached. | | [zip](https://github.com/4d-depot/HDI_4DVP_Offscreen.git) |
-| HDI_4DWP_Elements | Addressing the structural elements of a 4D Write Pro document -- document, body, sections, paragraphs, tables. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWP_Elements.zip) |
 | HDI_4DWP_GetPosition | Retrieving the on-screen coordinates of a range or element in a 4D Write Pro document. | [HDI_4DWP_GetPosition](https://github.com/miyako/HDI_4DWP_GetPosition) | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWP_GetPosition.zip) |
 | HDI_4DWP_MultiColumn | Multi-column layout in 4D Write Pro, including per-section column count and spacing. | [HDI_4DWP_MultiColumn](https://github.com/miyako/HDI_4DWP_MultiColumn) | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWP_MultiColumn.zip) |
 | HDI_4DWP_SetGetText | Reading and writing the plain text of a 4D Write Pro range with `WP SET TEXT` / `WP Get text`. | [HDI_4DWP_SetGetText](https://github.com/miyako/HDI_4DWP_SetGetText) | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWP_SetGetText.zip) |
