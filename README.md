@@ -108,13 +108,13 @@ A link in **Updated** means the demo has been converted and is maintained; an em
 |---|---|---|---|
 | HDI_4DVP_Offscreen_doc | Working with a 4D View Pro document offscreen, with no form area attached. | | [zip](https://github.com/4d-depot/HDI_4DVP_Offscreen.git) |
 | HDI_4DWP_Elements | Addressing the structural elements of a 4D Write Pro document -- document, body, sections, paragraphs, tables. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWP_Elements.zip) |
-| HDI_4DWP_GetPosition | Retrieving the on-screen coordinates of a range or element in a 4D Write Pro document. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWP_GetPosition.zip) |
+| HDI_4DWP_GetPosition | Retrieving the on-screen coordinates of a range or element in a 4D Write Pro document. | [HDI_4DWP_GetPosition](https://github.com/miyako/HDI_4DWP_GetPosition) | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWP_GetPosition.zip) |
 | HDI_4DWP_MultiColumn | Multi-column layout in 4D Write Pro, including per-section column count and spacing. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWP_MultiColumn.zip) |
-| HDI_4DWP_SetGetText | Reading and writing the plain text of a 4D Write Pro range with `WP SET TEXT` / `WP Get text`. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWP_SetGetText.zip) |
+| HDI_4DWP_SetGetText | Reading and writing the plain text of a 4D Write Pro range with `WP SET TEXT` / `WP Get text`. | [HDI_4DWP_SetGetText](https://github.com/miyako/HDI_4DWP_SetGetText) | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWP_SetGetText.zip) |
 | HDI_4DWriteProContextualMenu | Customising the 4D Write Pro contextual menu, including suppressing and extending entries. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_4DWriteProContextualMenu.zip) |
 | HDI_DISTINCT_ATTRIBUTE_PATH_VALUES | Retrieving distinct values along an attribute *path* inside an object field. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_DISTINCT_ATTRIBUTE_PATH_VALUES.zip) |
 | HDI_EntitySelectionInListbox | Using an ORDA entity selection directly as a list box data source. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_EntitySelectionInListbox.zip) |
-| HDI_ForEach | The `For each`...`End for each` loop over collections, entity selections and object properties. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_ForEach.zip) |
+| HDI_ForEach | The `For each`...`End for each` loop over collections, entity selections and object properties. | [HDI_ForEach](https://github.com/miyako/HDI_ForEach) | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_ForEach.zip) |
 | HDI_GET_STRUCTURE_INFO | Introspecting the database structure -- tables, fields, indexes and relations -- as objects. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_GET_STRUCTURE_INFO.zip) |
 | HDI_JSONTableForm_v17 | Generating a table's input and output forms from a JSON dynamic-form description. | | [zip](https://download.4d.com/4DBlog/Tips/4D_v17/DynamicForm_TableForm/HDI_JSONTableForm_v17.zip) |
 | HDI_ListboxCollection | Collection-backed list boxes -- binding a collection of objects to a list box and addressing columns by attribute path. | | [zip](https://downloads.4d.com/Demos/4D_v17/HDI_ListboxCollection.zip) |
